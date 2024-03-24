@@ -25,7 +25,7 @@ We analysed gene expression changes after Traumatic Brain Injury (TBI) and subse
 
 **Workflow**: 
 
-<img src="[relative/path/in/repository/to/image.svg](https://github.com/FLinT3/Transcriptomic-analysis-of-ISRIB-action-on-danio-rerio-brain-in-TBI-condition/blob/main/Images/Workflow.jpg)" width="20%">
+<img src="https://github.com/FLinT3/Transcriptomic-analysis-of-ISRIB-action-on-danio-rerio-brain-in-TBI-condition/blob/main/Images/Workflow.gif" width="20%">
 
 
 
