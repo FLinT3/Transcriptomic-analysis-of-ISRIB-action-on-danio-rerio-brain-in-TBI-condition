@@ -12,7 +12,7 @@ We analysed gene expression changes after Traumatic Brain Injury (TBI) and subse
 
 ## Aim, tasks and data
 
-<i>Danio rerio<i> brain samples were collected for bulk RNA sequencing on Next-Seq platform. Overall 27 samples were prepared for analysis (7 - C; 7 - T; 5 - I; 7 - TI). After quality control and trimming, one control sample was removed due to small number of readings. Total of 26 samples were used for analysis. 
+<i>Danio rerio<i> brain samples were collected for bulk RNA sequencing on HiSeq2500 platform. Overall 27 samples were prepared for analysis (7 - C; 7 - T; 5 - I; 7 - TI). After quality control and trimming, one control sample was removed due to small number of readings. Total of 26 samples were used for analysis. 
 
 **Aim**: Identify the main molecular response of ISRIB action on <i>Danio rerio<i> brain afer TBI.
 
