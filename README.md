@@ -24,7 +24,7 @@ We analysed gene expression changes after Traumatic Brain Injury (TBI) and subse
 - Identification of co-expression clusters by WGCNA and their annotation by overrepresented analysis (GO and KEGG)
 
 **Workflow**: 
-![](D:/Загрузки/Workflow.png)
+![]([D:/Загрузки/Workflow.png](https://github.com/FLinT3/Transcriptomic-analysis-of-ISRIB-action-on-danio-rerio-brain-in-TBI-condition/blob/main/Images/Workflow.jpg)https://github.com/FLinT3/Transcriptomic-analysis-of-ISRIB-action-on-danio-rerio-brain-in-TBI-condition/blob/main/Images/Workflow.jpg)
 
 
 
