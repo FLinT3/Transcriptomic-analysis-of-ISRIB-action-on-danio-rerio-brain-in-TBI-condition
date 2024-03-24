@@ -28,9 +28,10 @@ SRR_list <- as.integer(MetaDATA$group)
 sample_list <- MetaDATA$sample
 
 # Annotation
-txdb <- makeTxDbFromGFF("Danio_rerio.GRCz11.110.gtf")
-k <- keys(txdb, keytype = "TXNAME")
-tx2gene <- AnnotationDbi::select(txdb, k, "GENEID", "TXNAME")
+# txdb <- makeTxDbFromGFF("Danio_rerio.GRCz11.110.gtf")
+# k <- keys(txdb, keytype = "TXNAME")
+# tx2gene <- AnnotationDbi::select(txdb, k, "GENEID", "TXNAME")
+tx2gene <- read.table("D:/Ubunta files/RNAseq/ZEBRA/Annotation.txt", sep = "\t", header = T)
 
 # verification
 length(unique(tx2gene$GENEID))
