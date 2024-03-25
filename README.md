@@ -1,4 +1,4 @@
-# Transcriptomic analysis of ISRIB action on <i>Danio rerio<i><i> brain in TBI condition
+# Transcriptomic analysis of ISRIB action on <i>Danio rerio</i> brain in TBI condition
 
 ## About
 
